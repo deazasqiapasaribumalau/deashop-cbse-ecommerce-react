@@ -248,17 +248,17 @@ case 'DECREASE_QTY': {
 ### 🏠 Halaman Home
 Menampilkan hero section, search bar, filter kategori, dan grid produk.
 
-![Home](https://ibb.co.com/cMk9S6r)
+![Home](https://imgur.com/T7XV36h)
 
 ### 📦 Halaman Product Detail
 Menampilkan gambar produk, rating, deskripsi, quantity selector, dan tombol tambah keranjang.
 
-![Detail](https://ibb.co.com/67bZN1GX)
+![Detail](https://imgur.com/CnMTMfM)
 
 ### 🛒 Halaman Cart
 Menampilkan item keranjang, tombol `+`/`−` update quantity, dan ringkasan pesanan dengan kalkulasi ongkir otomatis.
 
-![Cart](https://ibb.co.com/wrpQwQF8)
+![Cart](https://imgur.com/1yjnXfa)
 
 ---
 
